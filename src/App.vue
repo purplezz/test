@@ -1,6 +1,6 @@
 <template>
   <div class="app-container">
-    <h1>Vue3 iframe 示例</h1>
+    <h1>Vue3 iframe 示例项目</h1>
     <div class="iframe-container">
       <iframe 
         title="Preview" 
